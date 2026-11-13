@@ -1,0 +1,17 @@
+//
+// Created by kyle on 2026/11/13.
+//
+
+#ifndef CAPRICORNINFERENCEENGINE_INFERENCE_H
+#define CAPRICORNINFERENCEENGINE_INFERENCE_H
+
+
+class Inference
+{
+    
+
+
+};
+
+
+#endif //CAPRICORNINFERENCEENGINE_INFERENCE_H
